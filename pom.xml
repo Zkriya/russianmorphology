@@ -16,7 +16,7 @@
     </scm>
 
     <properties>
-        <lucene.version>7.2.1</lucene.version>
+        <lucene.version>7.4.0</lucene.version>
         <morphology.version>1.4</morphology.version>
         <junit.version>4.12</junit.version>
     </properties>
